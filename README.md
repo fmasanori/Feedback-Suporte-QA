@@ -1,6 +1,6 @@
 # Feedback-Suporte-QA
 
-Os problemas do Suporte/QA são divididos entre dois grupos, recorrentes e raros. Os recorrentes compreendem a 75% do total dos chamados concentrados em 26 problemas diferentes, enquanto os raros compreendem ao restante de 25% do total dos chamados distribuídos em quase 200 problemas diferentes.
+Os problemas do Suporte/QA de uma determinada empresa da cidade são divididos entre dois grupos, recorrentes e raros. Os recorrentes compreendem a 75% do total dos chamados concentrados em 26 problemas diferentes, enquanto os raros compreendem ao restante de 25% do total dos chamados distribuídos em quase 200 problemas diferentes.
 
 Como os problemas raros compreendem uma pequena parcela do total distribuídos em 200 problemas diferentes, a categorização deles se torna impraticável. Acresce que são problemas tão atípicos que chegam a ocorrer uma única vez e nunca se repetem, talvez sejam causados devido a uma desatenção de algum dev que tenha feito algo pelo console de produção.
 
